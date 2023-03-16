@@ -1,0 +1,30 @@
+{
+  "name": "learnwebpack",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000l\u0000e\u0000a\u0000r\u0000n\u0000W\u0000e\u0000b\u0000p\u0000a\u0000c\u0000k\u0000\r\u0000 \u0000",
+  "main": "./src/index.js",
+  "dependencies": {
+    "@babel/generator": "^7.21.3",
+    "@babel/parser": "^7.21.3",
+    "@babel/traverse": "^7.21.3",
+    "@babel/types": "^7.21.3",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "tapable": "^2.2.1",
+    "webpack": "^5.76.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LGH-Ohh/learnWebpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LGH-Ohh/learnWebpack/issues"
+  },
+  "homepage": "https://github.com/LGH-Ohh/learnWebpack#readme"
+}
